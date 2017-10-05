@@ -1,5 +1,3 @@
-require "pry"
-
 class CreditCheck
 
   attr_reader :valid, :card_number
